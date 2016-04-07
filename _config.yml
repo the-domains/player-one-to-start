@@ -1,0 +1,28 @@
+name: Player One To Start
+favicon: null
+layout_spectrum: 0.8796360574197024
+typography_spectrum: 0.7685352333355695
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7327867185231298
+  lightness: 0.10550593468360603
+  saturation: 0.35340239363722503
+  rhythmicContrast: 0.714817157946527
+purpose: []
